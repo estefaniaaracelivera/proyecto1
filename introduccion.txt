@@ -1,1 +1,2 @@
 Proyecto de Prueba para Practicas de Curso Git y GitHub
+Autor: Estefania Vera
